@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Re-Wired Routers",
+      "attention": true,
+      "tech": "Angela Wise",
+      "date": "2020-11-10T14:23:26.260Z",
+      "id": 1
+    },
+    {
+      "message": "Installed SSD's",
+      "attention": true,
+      "tech": "Mark Davis",
+      "date": "2020-11-10T14:24:19.362Z",
+      "id": 2
+    },
+    {
+      "message": "Cleaned Drives",
+      "attention": true,
+      "tech": "Chris Ryan's",
+      "date": "2020-11-10T14:25:02.044Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Angela",
+      "lastName": "Wise",
+      "id": 1
+    },
+    {
+      "firstName": "fdasfda",
+      "lastName": "fdasfdafdas",
+      "id": 2
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Davis",
+      "id": 3
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Ryan's",
+      "id": 4
+    }
+  ]
+}

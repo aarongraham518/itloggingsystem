@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+npm i -D json-server concurrently
+npx create-react-app
+npm i materialize-css
+
+racf 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
